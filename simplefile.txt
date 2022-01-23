@@ -1,0 +1,5 @@
+01 Line A 
+02 Line B
+03 Line C (Diff from line 03)
+04 Line D 
+05 Line E (Diff from Line 05)
